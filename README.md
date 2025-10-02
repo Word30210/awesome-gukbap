@@ -23,4 +23,4 @@
 - 기타 특징: 보쌈, 냉면도 같이 팖
 
 ## 기여 방법
-[`CONTRIBUTING.md`]를 읽고 기여해주세요.
+[`CONTRIBUTING.md`](/CONTRIBUTING.md)를 읽고 기여해주세요.
